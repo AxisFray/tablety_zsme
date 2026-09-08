@@ -2,6 +2,5 @@ Stworzenie aplikacji dostosowanej do ucznia szkoły, wysyłającej informację z
 Aplikacja będzie intuicyjna oraz łatwa w obsłudze. Zalogować będzie się można za pomocą wpisania kodu podanego od nauczyciela do tableta szkolnego, który będzie zapisywał kto korzysta w laptopa. Będzie możliwe aby uczeń sam generował
 sobie kod dostępu, na swoim koncie.
 
-1. Uczeń dostaje tablet, w aplikacji wpisuje liczbę godzin oraz swoje imię, nazwisko i klasę.
-2. Nauczyciel akceptuje prośbę oraz edytować w niej dane w przypadku błędów wpisanych przez ucznia. Tablet się odblokowuje, aby uczeń mógł z niego korzystać. 
+1. 
 

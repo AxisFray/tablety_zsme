@@ -1,3 +1,7 @@
 Stworzenie aplikacji dostosowanej do ucznia szkoły, wysyłającej informację zwrotną do servera szkolnego o numerze zajętego tableta oraz informacji o jego aktualnym posiadaczu.
 Aplikacja będzie intuicyjna oraz łatwa w obsłudze. Zalogować będzie się można za pomocą wpisania kodu podanego od nauczyciela do tableta szkolnego, który będzie zapisywał kto korzysta w laptopa. Będzie możliwe aby uczeń sam generował
 sobie kod dostępu, na swoim koncie.
+
+1. Uczeń dostaje tablet, w aplikacji wpisuje liczbę godzin oraz swoje imię, nazwisko i klasę.
+2. Nauczyciel akceptuje prośbę. Laptop się odblokowuje, aby uczeń mógł z niego korzystać. 
+
